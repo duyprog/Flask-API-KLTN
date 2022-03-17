@@ -1,0 +1,6 @@
+Flask
+boto3 
+pandas
+nltk
+numpy
+Flask-RESTful
